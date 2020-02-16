@@ -3,3 +3,5 @@ var b = 3
 var c = 2
 
 var d = "WORKSHOP1"
+
+var e = "Commit baru Workshop1"
